@@ -1,5 +1,3 @@
-// Filipe Vinicius Vieira da Silva RA: 10444828
-
 #include <stdio.h>
 #include <math.h>
 
